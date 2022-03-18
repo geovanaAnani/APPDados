@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttaoD06" type="id" />
+    <item name="textResultado" type="id" />
+    <item name="imageDado" type="id" />
+    <item name="maos" type="id" />
+</resources>
